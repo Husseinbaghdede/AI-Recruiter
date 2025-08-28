@@ -162,9 +162,6 @@ The recruitment process follows this AI-powered workflow:
 - Include unit tests for new features
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
@@ -190,6 +187,4 @@ For support and questions:
 - Streamlit for the web interface framework
 - The open-source community for various dependencies
 
----
 
-**Built with ❤️ for modern recruitment processes**
